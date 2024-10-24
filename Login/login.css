@@ -11,7 +11,7 @@ html, body {
     background-color: #49227c;
     height: 100%;
     width: 100%;
-    overflow: hidden; /* Remove a barra de rolagem */
+    overflow: hidden; 
 }
 
 main {
@@ -28,7 +28,7 @@ section#login {
     width: 250px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.822);
-    overflow: hidden; /* Isso ainda pode ser útil */
+    overflow: hidden; 
 }
 
 section#login > div#imagem {
@@ -42,7 +42,7 @@ section#login > div#formulario {
     padding: 10px;
 }
 
-/* Resto do seu CSS */
+
 
 
 form > input[type=submit] {
